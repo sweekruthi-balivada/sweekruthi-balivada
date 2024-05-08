@@ -1,10 +1,10 @@
-👋 Hi, Sweekruthi Balivada here! Grad Student at San Jose State University, California|Ex-Infosys
+👋 Hi, Sweekruthi Balivada here! Grad Student at San Jose State University, California|Ex-Infosys| Machine Learning and Deep Learning enthusiast. 
 
-📚 Masters in Data Analytics (Pursuing)|B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, Hyderabad.
+📚 Masters in Data Analytics (Pursuing)|B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, India.
 
 💼 Site Reliability Engineer for Azure with 2 years of Experience. Proficient with Python, SQL, Azure, Tableau, and Power BI.
 
-💡 Skilled in Database Management, with a strong understanding of Machine Learning, Data Visualization, and Big Data technologies.
+💡 Skilled in Data Analysis, with a strong understanding of Machine Learning, Deep Learning, Database Management, Data Visualization, and Big Data technologies.
 
 🔗 Connect with me on www.linkedin.com/in/sweekruthi-balivada
 <!---
