@@ -1,4 +1,4 @@
-👋 Hi, Sweekruthi Balivada here! Grad Student at San Jose State University, California|Ex-Infosys| Machine Learning and Deep Learning enthusiast. 
+👋 Hi, Swee here! Grad Student at San Jose State University, California|Ex-Infosys| Machine Learning and Deep Learning enthusiast. 
 
 📚 Masters in Data Analytics (Pursuing)|B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, India.
 
