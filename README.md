@@ -1,6 +1,6 @@
-👋 Hi, Swee here! Grad Student at San Jose State University, California|Ex-Infosys| Machine Learning and Deep Learning enthusiast. 
+👋 Hi, Swee here! Machine Learning and Deep Learning enthusiast |Ex-Infosys| California, USA
 
-📚 Masters in Data Analytics (Pursuing)|B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, India.
+📚 Masters in Data Analytics from San Jose State University|B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, India.
 
 💼 Site Reliability Engineer for Azure with 2 years of Experience. Proficient with Python, SQL, Azure, Tableau, and Power BI.
 
